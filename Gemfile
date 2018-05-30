@@ -9,9 +9,9 @@ end
 gem 'rails', '~> 5.0.2'
 
 # Environment
-gem 'pg'
+# gem 'pg'
 
-gem 'mysql2'
+gem 'mysql2', '~> 0.3.20'
 # # Use Puma as the app server
 # gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
